@@ -1,0 +1,3 @@
+nodomain.freeyourgadget.gadgetbridge_132
+org.xphnx.ameixa_56
+org.fdroid.fdroid_1003002

@@ -1,0 +1,113 @@
+[APE] *** INFO *** InputMethod ID: com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+[APE] *** INFO *** InputMethod ID: com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService
+[APE] Power Manager says we are interactive
+[APE] Generate activity event for activity ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2} from 0 of 1
+[APE] *** INFO *** Let's wait for activity loading...
+[APE] *** INFO *** Expected activity package [nodomain.freeyourgadget.gadgetbridge] is loaded...
+[APE] *** INFO *** App Activity nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2 started.
+[APE] >>>>>>>> SATA begin step [1][2249574992115]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 192 MB, Available: 191 MB
+[APE] *** INFO *** Too many nodes in WebView (1482 > 64), remove the WebView.
+[APE] *** INFO *** Too many nodes in WebView (1483 > 64), remove the WebView.
+[APE] *** INFO *** Create 2 names for 2 nodes in 23 ms for tree GUITree[0]@null by Naming[0] [Update node name: false].
+[APE] *** INFO *** Checking new state: g0s0[-1,0][0]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 10 ms.
+[APE] *** INFO *** Too many nodes in WebView (1482 > 64), remove the WebView.
+[APE] *** INFO *** Too many nodes in WebView (1483 > 64), remove the WebView.
+[APE] *** INFO *** Create 2 names for 2 nodes in 9 ms for tree GUITree[0]@null by Naming[0] [Update node name: false].
+[APE] *** INFO *** Create 4 names for 4 nodes in 9 ms for tree GUITree[0]@g0s0[-1,0][0]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2] by Naming[1] [Update node name: false].
+[APE] *** INFO *** Create 4 names for 4 nodes in 6 ms for tree GUITree[0]@g0s0[-1,0][0]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2] by Naming[1] [Update node name: false].
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g0s0[-1,0][0]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 8 ms.
+[APE] *** INFO *** Too many nodes in WebView (1482 > 64), remove the WebView.
+[APE] *** INFO *** Too many nodes in WebView (1483 > 64), remove the WebView.
+[APE] *** INFO *** Create 2 names for 2 nodes in 9 ms for tree GUITree[0]@null by Naming[0] [Update node name: false].
+[APE] *** INFO *** Create 4 names for 4 nodes in 6 ms for tree GUITree[0]@g0s0[-1,0][0]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2] by Naming[1] [Update node name: false].
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g0s0[-1,0][0]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 8 ms.
+[APE] *** INFO *** Too many nodes in WebView (1482 > 64), remove the WebView.
+[APE] *** INFO *** Too many nodes in WebView (1483 > 64), remove the WebView.
+[APE] *** INFO *** Create 2 names for 2 nodes in 9 ms for tree GUITree[0]@null by Naming[0] [Update node name: false].
+[APE] *** INFO *** Create 4 names for 4 nodes in 6 ms for tree GUITree[0]@g0s0[-1,0][0]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2] by Naming[1] [Update node name: false].
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g0s0[-1,0][0]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2] is blacklisted from refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[-1,0][0]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 1 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-nodomain.freeyourgadget.gadgetbridge-ape-sata-running-time-15/step-1.xml at step 1
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-nodomain.freeyourgadget.gadgetbridge-ape-sata-running-time-15/step-1.png at step 1
+[APE] *** INFO *** Entry state: g0s0[1,1][1]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2]
+[APE] GSTG(g0): activities (1), states (1), edges (0), unvisited actions (2), visited actions (0)
+[APE] *** INFO *** -  0.00   1 nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2[1,1][1][S=1]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0), stack depth(0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  TRIVIAL_STATE
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      0  EARLY_STAGE
+[APE]      0  DEPTH_FIRST
+[APE]      0  ACTIVITY_DEPTH_FIRST
+[APE]      0  RL
+[APE]      0  SUBSEQUENCE
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  MAX_THROTTLE
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[-1,0][0]@CLICK[V=0.000000]class=android.widget.Button;resource-id=android:id/button1;enabled=true;clickable=true;[P=52][S=0.000000][RN=1][T=200][777,1572,969,1716][OK], UNVISITED
+[APE]     2 g0a1[-1,0][0]@BACK[V=0.000000]g0s0[1,1][1]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2][T=0]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a0[-1,0][0]@CLICK[V=0.000000]class=android.widget.Button;resource-id=android:id/button1;enabled=true;clickable=true;[P=52][S=0.000000][RN=1][T=200][777,1572,969,1716][OK], UNVISITED by strategy EARLY_STAGE
+[APE] Last  state: null
+[APE] Last action: null
+[APE] Curr  state: null
+[APE] Curr action: null
+[APE] New   state: g0s0[1,1][1]nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2@1572226929@Naming[0]@[W=2][A=2]
+[APE] New  action: g0a0[1,1][1]@CLICK[V=0.000000]class=android.widget.Button;resource-id=android:id/button1;enabled=true;clickable=true;[P=52][S=0.000000][RN=1][T=200][777,1572,969,1716][OK]
+[APE] *** INFO *** Release document for tree #0
+[APE] *** INFO *** Release document for tree #0
+[APE] *** INFO *** Release document for tree #0
+[APE] *** INFO *** Release document for tree #1
+[APE] >>>>>>>> SATA end step [1][2252492208677]
+[APE] >>>>>>>> SATA begin step [2][2252904801593]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 192 MB, Available: 191 MB
+[APE] >>>>>>>> SATA end step [2][2252939455916]
+[APE] Internal error
+java.lang.IllegalStateException: Can't call getPixels() on a recycled bitmap
+	at android.graphics.Bitmap.checkRecycled(Bitmap.java:351)
+	at android.graphics.Bitmap.getPixels(Bitmap.java:1381)
+	at com.android.commands.monkey.ape.tree.GUITreeNode.computeAndSetImageText(GUITreeNode.java:571)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.computeImageText(GUITreeBuilder.java:230)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.computeImageText(GUITreeBuilder.java:226)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.computeImageText(GUITreeBuilder.java:226)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.computeImageText(GUITreeBuilder.java:226)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.buildNodeAndXmlFromNodeInfo(GUITreeBuilder.java:207)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.buildGUITree(GUITreeBuilder.java:156)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.<init>(GUITreeBuilder.java:135)
+	at com.android.commands.monkey.ape.model.Model.getState(Model.java:340)
+	at com.android.commands.monkey.ape.agent.StatefulAgent.buildState(StatefulAgent.java:741)
+	at com.android.commands.monkey.ape.agent.StatefulAgent.buildAndValidateNewState(StatefulAgent.java:503)
+	at com.android.commands.monkey.ape.agent.StatefulAgent.updateStateInternal(StatefulAgent.java:516)
+	at com.android.commands.monkey.ape.agent.ApeAgent.updateStateWrapper(ApeAgent.java:258)
+	at com.android.commands.monkey.ape.agent.ApeAgent.updateState(ApeAgent.java:245)
+	at com.android.commands.monkey.MonkeySourceApe.generateGUIEvent(MonkeySourceApe.java:923)
+	at com.android.commands.monkey.MonkeySourceApe.generateEvents(MonkeySourceApe.java:780)
+	at com.android.commands.monkey.MonkeySourceApe.getNextEvent(MonkeySourceApe.java:1297)
+	at com.android.commands.monkey.Monkey.runMonkeyCycles(Monkey.java:1439)
+	at com.android.commands.monkey.Monkey.run(Monkey.java:818)
+	at com.android.commands.monkey.Monkey.main(Monkey.java:623)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:251)
+[APE] Please report this bug to developers.
+Run cmd: adb -s 09434d61255da52f shell CLASSPATH=/data/local/tmp/ape.jar /system/bin/app_process /data/local/tmp/ com.android.commands.monkey.Monkey -p nodomain.freeyourgadget.gadgetbridge --running-minutes 15 --ape sata

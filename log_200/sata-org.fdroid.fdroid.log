@@ -1,0 +1,39 @@
+[APE] *** INFO *** InputMethod ID: com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+[APE] *** INFO *** InputMethod ID: com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService
+[APE] Power Manager says we are interactive
+[APE] Generate activity event for activity ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity} from 0 of 1
+[APE] *** INFO *** Let's wait for activity loading...
+[APE] *** INFO *** Expected activity package [org.fdroid.fdroid] is loaded...
+[APE] *** INFO *** App Activity org.fdroid.fdroid.views.main.MainActivity started.
+[APE] >>>>>>>> SATA begin step [1][2282520164551]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 192 MB, Available: 191 MB
+[APE] >>>>>>>> SATA end step [1][2282585057414]
+[APE] Internal error
+java.lang.IllegalStateException: Can't call getPixels() on a recycled bitmap
+	at android.graphics.Bitmap.checkRecycled(Bitmap.java:351)
+	at android.graphics.Bitmap.getPixels(Bitmap.java:1381)
+	at com.android.commands.monkey.ape.tree.GUITreeNode.computeAndSetImageText(GUITreeNode.java:571)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.computeImageText(GUITreeBuilder.java:230)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.computeImageText(GUITreeBuilder.java:226)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.computeImageText(GUITreeBuilder.java:226)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.computeImageText(GUITreeBuilder.java:226)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.buildNodeAndXmlFromNodeInfo(GUITreeBuilder.java:207)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.buildGUITree(GUITreeBuilder.java:156)
+	at com.android.commands.monkey.ape.tree.GUITreeBuilder.<init>(GUITreeBuilder.java:135)
+	at com.android.commands.monkey.ape.model.Model.getState(Model.java:340)
+	at com.android.commands.monkey.ape.agent.StatefulAgent.buildState(StatefulAgent.java:741)
+	at com.android.commands.monkey.ape.agent.StatefulAgent.buildAndValidateNewState(StatefulAgent.java:503)
+	at com.android.commands.monkey.ape.agent.StatefulAgent.updateStateInternal(StatefulAgent.java:516)
+	at com.android.commands.monkey.ape.agent.ApeAgent.updateStateWrapper(ApeAgent.java:258)
+	at com.android.commands.monkey.ape.agent.ApeAgent.updateState(ApeAgent.java:245)
+	at com.android.commands.monkey.MonkeySourceApe.generateGUIEvent(MonkeySourceApe.java:923)
+	at com.android.commands.monkey.MonkeySourceApe.generateEvents(MonkeySourceApe.java:780)
+	at com.android.commands.monkey.MonkeySourceApe.getNextEvent(MonkeySourceApe.java:1297)
+	at com.android.commands.monkey.Monkey.runMonkeyCycles(Monkey.java:1439)
+	at com.android.commands.monkey.Monkey.run(Monkey.java:818)
+	at com.android.commands.monkey.Monkey.main(Monkey.java:623)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:251)
+[APE] Please report this bug to developers.
+Run cmd: adb -s 09434d61255da52f shell CLASSPATH=/data/local/tmp/ape.jar /system/bin/app_process /data/local/tmp/ com.android.commands.monkey.Monkey -p org.fdroid.fdroid --running-minutes 15 --ape sata
