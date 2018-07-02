@@ -5,7 +5,7 @@ DIR=$(pushd $(dirname $BASH_SOURCE{0}) > /dev/null && pwd  && popd > /dev/null)
 #export SERIAL=${SERIAL:-067125a40acc819e}
 export SERIAL=${SERIAL:-09434d61255da52f}
 
-export TESTING_TIME=15
+export TESTING_TIME=60
 
 TOOL=sata
 
