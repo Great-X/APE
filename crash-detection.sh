@@ -12,7 +12,7 @@ TOOL=sata
 for PKG in $(cat ${DIR}/packages.txt)
 do
     echo "Testing $PKG for tool $TOOL"
-    if [[ -f ${DIR}/${TOOL}-${PKG}.log ]]
+    if [[ -f ${DIR}/logs/${TOOL}-${PKG}.log ]]
     then
         echo "Package $PKG has been tested."
         continue

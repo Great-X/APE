@@ -185,7 +185,7 @@ def split(log_dir):
 
     package = m.group(1)
 
-    stdout_log = os.path.abspath(os.path.join(log_dir, '..', 'sata-' + package + '.log'))
+    stdout_log = os.path.abspath(os.path.join(log_dir, '..', 'logs', 'sata-' + package + '.log'))
 
     if not os.path.exists(stdout_log):
         print('Cannot determine stdout from log directory: ' + log_dir)

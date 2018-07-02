@@ -37,7 +37,7 @@ PROCESS_NAME=com.android.commands.motifcore
 adb_kill_process
 
 python $SATA_INS
-python $SATA_BIN -p $PKG --running-minutes $TESTING_TIME --ape sata > ${DIR}/${TOOL}-${PKG}.log 2>&1
+python $SATA_BIN -p $PKG --running-minutes $TESTING_TIME --ape sata > ${DIR}/logs/${TOOL}-${PKG}.log 2>&1
 
 
 PROCESS_NAME=com.android.commands.monkey
@@ -50,7 +50,7 @@ adb_kill_process
 source ${DIR}/post-testing.sh
 
 
-grep CRASH ${DIR}/${TOOL}-${PKG}.log
+grep CRASH ${DIR}/logs/${TOOL}-${PKG}.log
 RET=$?
 echo "RET=$RET"
 SATA_OUTPUT_DIR=sata-${PKG}-ape-sata-running-time-$TESTING_TIME
