@@ -25,3 +25,9 @@ python ${DIR}/update_packages.py
 
 
 bash ${DIR}/crash-detection.sh
+
+#clear urls
+rm -f ${DIR}/urls/*
+
+#clear apks
+rm -f ${DIR}/apks/*
