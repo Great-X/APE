@@ -194,7 +194,7 @@ def split(log_dir):
 
     log_slice = slice_stdout(stdout_log)
 
-    report_dir = makedir(os.path.join(DIR, 'report-' + package))
+    report_dir = makedir(os.path.join(DIR, 'reports', 'report-' + package))
 
     local_names = []
     for s in log_slice:
