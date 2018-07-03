@@ -2,3 +2,6 @@ org.fdroid.fdroid_1003002
 nodomain.freeyourgadget.gadgetbridge_132
 com.nextcloud.android.beta_20180627
 net.i2p.android.router_4745241
+ryey.easer_78
+org.kontalk_314
+in.andres.kandroid_19
