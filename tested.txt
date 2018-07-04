@@ -5,3 +5,7 @@ net.i2p.android.router_4745241
 ryey.easer_78
 org.kontalk_314
 in.andres.kandroid_19
+com.veniosg.dir_1560
+com.b44t.messenger_534
+com.android.keepass_178
+com.duckduckgo.mobile.android_50700
