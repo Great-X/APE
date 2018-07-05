@@ -23,3 +23,10 @@ com.simplemobiletools.camera_61
 org.fitchfamily.android.gsmlocation_68
 me.kuehle.carreport_72
 com.greenaddress.abcore_64
+com.manichord.mgit_210
+at.bitfire.davdroid_231
+com.simplemobiletools.musicplayer_45
+org.xbmc.kore_21
+com.simplemobiletools.calendar_124
+io.github.gsantner.memetastic_45
+fr.free.nrw.commons_85
