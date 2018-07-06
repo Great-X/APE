@@ -2,8 +2,8 @@
 
 DIR=$(pushd $(dirname $BASH_SOURCE{0}) > /dev/null && pwd  && popd > /dev/null)
 
-## cut timeline
-#python ${DIR}/cut-timeline.py ${DIR}/cur_logs
+# cut timeline
+python ${DIR}/cut-timeline.py ${DIR}/cur_logs
 
 # move logs.
 for log in $(ls ${DIR}/cur_logs/*.log)
