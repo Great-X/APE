@@ -42,3 +42,7 @@ org.schabi.newpipe_64
 eu.uwot.fabio.altcoinprices_66
 com.workingagenda.democracydroid_43
 com.fr3ts0n.ecu.gui.androbd_20003
+com.dosse.chromiumautoupdater_23
+org.notabug.lifeuser.moviedb_200
+org.ligi.gobandroid_hd_259
+ws.xsoh.etar_15
