@@ -56,8 +56,8 @@ echo "RET=$RET"
 SATA_OUTPUT_DIR=sata-${PKG}-ape-sata-running-time-$TESTING_TIME
 if [[ $RET == 0 ]]
 then
-    adb -s $SERIAL pull /sdcard/$SATA_OUTPUT_DIR ${DIR}/
+    adb -s $SERIAL pull /sdcard/$SATA_OUTPUT_DIR ${DIR}/cur_logs/
 fi
-adb -s $SERIAL shell rm -rf /sdcard/$SATA_OUTPUT_DIR ${DIR}
+adb -s $SERIAL shell rm -rf /sdcard/$SATA_OUTPUT_DIR ${DIR}/cur_logs/
 
 PKG=${PKG}_${VERSION}
