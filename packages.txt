@@ -1,6 +1,10 @@
-at.bitfire.davdroid_231
-com.simplemobiletools.musicplayer_45
-org.xbmc.kore_21
-com.simplemobiletools.calendar_124
-io.github.gsantner.memetastic_45
-fr.free.nrw.commons_85
+net.bible.android.activity_246
+org.mozilla.fennec_fdroid_600210
+net.nullsum.audinaut_196
+org.billthefarmer.currency_119
+com.nononsenseapps.feeder_34
+org.gateshipone.malp_26
+com.menny.android.anysoftkeyboard_4519
+org.shadowice.flocke.andotp_19
+org.schabi.newpipe_64
+eu.uwot.fabio.altcoinprices_66
