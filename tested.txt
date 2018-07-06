@@ -40,3 +40,5 @@ com.menny.android.anysoftkeyboard_4519
 org.shadowice.flocke.andotp_19
 org.schabi.newpipe_64
 eu.uwot.fabio.altcoinprices_66
+com.workingagenda.democracydroid_43
+com.fr3ts0n.ecu.gui.androbd_20003
