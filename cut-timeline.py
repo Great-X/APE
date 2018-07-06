@@ -114,7 +114,7 @@ def grep(log):
             trace = CAUSED_BY_PATTERN.sub('\g<norm>\n', trace)
             trace = TOP_EXP_PATTERN.sub('\g<topexp>\n', trace)
             trace = trace.replace('// ', '')
-            print(trace)
+            # print(trace)
         results.append(Crash(pkg, exp, trace, original_trace))
 
 
@@ -248,7 +248,8 @@ def split(package, stdout_log, log_dir):
     if len(log_slice) == 0:
         return log_slice
 
-    report_dir = makedir('report-' + package)
+    # report_dir = makedir('report-' + package)
+    report_dir = makedir(os.path.join(DIR, 'reports', 'report-' + package))
 
     local_names = []
     for s in log_slice:
@@ -280,7 +281,7 @@ def output(log_dir, output_dir, package, s):
     begin_step = s.begin_step
     step = s.step
 
-    print('steps: %d - %d' % (begin_step, step))
+    # print('steps: %d - %d' % (begin_step, step))
 
 
     sataTimeline = os.path.join(log_dir, 'sataTimeline.vis.js')
@@ -442,7 +443,7 @@ $('table').addClass('table-responsive').addClass('table').addClass('table-border
                 continue
             m = SATA_LOG_FILE_PATTERN.match(log)
             if m:
-                print(log)
+                # print(log)
                 total_pkg = total_pkg + 1
                 pkg = m.group(1)
                 pkg_data_dir = find_sata_data_dir_for_pkg(data_dir, pkg)
@@ -455,10 +456,10 @@ $('table').addClass('table-responsive').addClass('table').addClass('table-border
                 total_crashed_pkg = total_crashed_pkg + 1
                 content.append('* [{0} ({1})](report-{0})'.format(pkg, len(log_slice)))
 
-    content = sorted(content)
-    with open('index.md', 'w') as f:
-        f.write(indexmd_tpl.format(total_crash = total_crash, total_crashed_pkg = total_crashed_pkg, total_pkg = total_pkg, table = counter.to_markdown_table('Error Type', '\\#'), \
-            content = '\n'.join(content)))
+    # content = sorted(content)
+    # with open('index.md', 'w') as f:
+    #     f.write(indexmd_tpl.format(total_crash = total_crash, total_crashed_pkg = total_crashed_pkg, total_pkg = total_pkg, table = counter.to_markdown_table('Error Type', '\\#'), \
+    #         content = '\n'.join(content)))
 
 if __name__ == '__main__':
     try:

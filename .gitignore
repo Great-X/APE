@@ -1,3 +1,3 @@
 apks/*.apk
-logs/*.log
+all_logs/*.log
 urls/
