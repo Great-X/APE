@@ -49,3 +49,9 @@ ws.xsoh.etar_15
 net.inbox.pager_7
 de.digisocken.anotherrss_218
 eu.faircode.netguard_2018052301
+de.luhmer.owncloudnewsreader_130
+com.simplemobiletools.flashlight_29
+com.kunzisoft.keepass.libre_11
+com.simplemobiletools.applauncher_13
+org.kore.kolabnotes.android_98
+org.kde.kdeconnect_tp_1841
