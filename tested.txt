@@ -64,3 +64,16 @@ de.baumann.browser_77
 com.simplemobiletools.filemanager_51
 com.simplemobiletools.calculator_20
 de.retujo.bierverkostung_3
+ch.bailu.aat_23
+com.wangdaye.mysplash_333
+com.knirirr.beecount_120
+dev.ukanth.ufirewall_15992
+com.github.quarck.calnotify_271828
+protect.budgetwatch_25
+de.schildbach.wallet_test_363
+ml.adamsprogs.bimba_11
+com.ichi2.anki_20804300
+at.linuxtage.companion_1500151
+me.zeeroooo.materialfb_67
+de.schildbach.wallet_363
+at.bitfire.icsdroid_21
