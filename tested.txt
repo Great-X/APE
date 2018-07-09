@@ -77,3 +77,8 @@ at.linuxtage.companion_1500151
 me.zeeroooo.materialfb_67
 de.schildbach.wallet_363
 at.bitfire.icsdroid_21
+ru.henridellal.emerald_35
+de.kugihan.dictionaryformids.hmi_android_131
+org.isoron.uhabits_36
+com.etesync.syncadapter_29
+com.dkanada.icecons_20
