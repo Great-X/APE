@@ -90,3 +90,5 @@ nitezh.ministock_75
 org.proninyaroslav.libretorrent_8
 fr.unix_experience.owncloud_sms_68
 de.danoeh.antennapod_1060595
+com.mschlauch.comfortreader_10
+org.mozilla.klar_19
