@@ -12,7 +12,7 @@ fi
 
 source ${DIR}/envsetup.sh
 
-adb -s $SERIAL shell ls /sdcard/
+adb -s $SERIAL shell ls /sdcard/ > /dev/null
 RET=$?
 if [[ $RET != 0 ]];
 then
