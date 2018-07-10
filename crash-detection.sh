@@ -2,14 +2,13 @@
 
 DIR=$(pushd $(dirname $BASH_SOURCE{0}) > /dev/null && pwd  && popd > /dev/null)
 
-#export SERIAL=${SERIAL:-067125a40acc819e}
-export SERIAL=${SERIAL:-09434d61255da52f}
-
+export SERIAL=$1
 export TESTING_TIME=60
 
+filename=$2
 TOOL=sata
 
-for PKG in $(cat ${DIR}/packages.txt)
+for PKG in $(cat ${DIR}/${filename})
 do
     echo "Testing $PKG for tool $TOOL"
     if [[ -f ${DIR}/all_logs/${TOOL}-${PKG}.log ]]

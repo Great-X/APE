@@ -1,0 +1,2 @@
+com.mschlauch.comfortreader_10
+org.mozilla.klar_19
