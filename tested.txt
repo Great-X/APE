@@ -82,3 +82,11 @@ de.kugihan.dictionaryformids.hmi_android_131
 org.isoron.uhabits_36
 com.etesync.syncadapter_29
 com.dkanada.icecons_20
+org.indywidualni.fblite_52
+org.billthefarmer.crossword_108
+com.quaap.launchtime_75
+org.secuso.privacyfriendlynetmonitor_8
+nitezh.ministock_75
+org.proninyaroslav.libretorrent_8
+fr.unix_experience.owncloud_sms_68
+de.danoeh.antennapod_1060595
