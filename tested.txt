@@ -103,3 +103,5 @@ org.voidsink.anewjkuapp_140061
 net.nurik.roman.muzei_24016
 de.syss.MifareClassicTool_43
 com.freerdp.afreerdp_11
+com.greenaddress.greenbits_android_wallet_203
+com.greenaddress.greenbits_android_wallet.testnet_203
