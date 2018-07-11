@@ -93,3 +93,6 @@ de.danoeh.antennapod_1060595
 com.mschlauch.comfortreader_10
 org.mozilla.klar_19
 com.bijoysingh.quicknote_62
+de.chaosdorf.meteroid_28
+io.github.hidroh.materialistic_76
+org.linphone_3320
