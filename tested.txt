@@ -96,3 +96,10 @@ com.bijoysingh.quicknote_62
 de.chaosdorf.meteroid_28
 io.github.hidroh.materialistic_76
 org.linphone_3320
+kiwi.root.an2linuxclient_9
+com.nhellfire.kerneladiutor_248
+felixwiemuth.lincal_13
+org.voidsink.anewjkuapp_140061
+net.nurik.roman.muzei_24016
+de.syss.MifareClassicTool_43
+com.freerdp.afreerdp_11
