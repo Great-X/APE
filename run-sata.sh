@@ -24,10 +24,9 @@ source ${DIR}/pre-testing.sh
 
 
 # get pkg name and version information.
-array=(${PKG//_/ })
-PKG=${array[0]}
-VERSION=${array[1]}
-
+var=${PKG}
+PKG=${var%_*}
+VERSION=${var##*_}
 
 PROCESS_NAME=com.android.commands.monkey
 adb_kill_process
