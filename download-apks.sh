@@ -7,4 +7,3 @@ for file in $(ls ${DIR}/urls)
 do
     wget -P ${DIR}/apks $(cat ${DIR}/urls/${file})
 done
-wait
