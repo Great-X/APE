@@ -108,3 +108,8 @@ com.greenaddress.greenbits_android_wallet.testnet_203
 saschpe.contactevents_160177
 de.tap.easy_xkcd_143
 org.sufficientlysecure.viewer_2817
+org.dmfs.tasks_6880
+be.digitalia.fosdem_1500150
+net.gaast.giggity_70
+org.projectmaxs.transport.xmpp_2000501511
+org.kaqui_27
