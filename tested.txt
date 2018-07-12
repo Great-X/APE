@@ -105,3 +105,6 @@ de.syss.MifareClassicTool_43
 com.freerdp.afreerdp_11
 com.greenaddress.greenbits_android_wallet_203
 com.greenaddress.greenbits_android_wallet.testnet_203
+saschpe.contactevents_160177
+de.tap.easy_xkcd_143
+org.sufficientlysecure.viewer_2817
