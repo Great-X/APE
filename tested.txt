@@ -113,3 +113,5 @@ be.digitalia.fosdem_1500150
 net.gaast.giggity_70
 org.projectmaxs.transport.xmpp_2000501511
 org.kaqui_27
+org.projectmaxs.main_2000501511
+org.lumicall.android_190
