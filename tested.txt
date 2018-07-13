@@ -118,3 +118,12 @@ org.lumicall.android_190
 com.rehanced.lunary_28
 com.fsck.k9_23630
 sh.ftp.rocketninelabs.meditationassistant.opensource_147
+org.toulibre.capitoledulibre_11
+com.biglybt.android.client_19
+ca.rmen.android.networkmonitor_13000
+cz.martykan.forecastie_20
+com.jereksel.libresubstratum_3
+pw.thedrhax.mosmetro_70
+org.eehouse.android.xw4_127
+info.metadude.android.congress.schedule_44
+com.ghostsq.commander_335
