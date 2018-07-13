@@ -129,3 +129,7 @@ info.metadude.android.congress.schedule_44
 com.ghostsq.commander_335
 com.google.zxing.client.android_107
 org.epstudios.epmobile_50
+fr.mobdev.goblim_11
+ca.rmen.android.frenchcalendar_1181
+com.pcinpact_227
+nl.asymmetrics.droidshows_772
