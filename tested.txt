@@ -127,3 +127,5 @@ pw.thedrhax.mosmetro_70
 org.eehouse.android.xw4_127
 info.metadude.android.congress.schedule_44
 com.ghostsq.commander_335
+com.google.zxing.client.android_107
+org.epstudios.epmobile_50
