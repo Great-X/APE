@@ -133,3 +133,8 @@ fr.mobdev.goblim_11
 ca.rmen.android.frenchcalendar_1181
 com.pcinpact_227
 nl.asymmetrics.droidshows_772
+com.arnaud.metronome_5
+com.teamdc.stephendiniz.autoaway_24
+com.commonsware.android.arXiv_112
+org.secuso.privacyfriendlymemory_3
+com.hobbyone.HashDroid_20
