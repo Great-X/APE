@@ -138,3 +138,7 @@ com.teamdc.stephendiniz.autoaway_24
 com.commonsware.android.arXiv_112
 org.secuso.privacyfriendlymemory_3
 com.hobbyone.HashDroid_20
+org.geometerplus.zlibrary.ui.android_2050920
+de.baumann.hhsmoodle_57
+org.berlin_vegan.bvapp_26
+com.namelessdev.mpdroid_58
