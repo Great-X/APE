@@ -16,3 +16,9 @@ for d in $(ls -d ${DIR}/cur_logs/*-ape-sata-running-time-60)
 do
     rm -rf ${d}
 done
+
+#clear urls
+rm -f ${DIR}/urls/*
+
+#clear apks
+rm -f ${DIR}/apks/*

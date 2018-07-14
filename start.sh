@@ -13,9 +13,3 @@ python ${DIR}/update_packages.py
 bash ${DIR}/crash-detection.sh ${SERIAL_1} packages1.txt &
 bash ${DIR}/crash-detection.sh ${SERIAL_2} packages2.txt &
 wait
-
-#clear urls
-rm -f ${DIR}/urls/*
-
-#clear apks
-rm -f ${DIR}/apks/*
