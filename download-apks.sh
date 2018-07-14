@@ -7,3 +7,15 @@ for file in $(ls ${DIR}/urls)
 do
     wget -P ${DIR}/apks $(cat ${DIR}/urls/${file})
 done
+
+
+#filter apps whose ActivityCount less than 5.
+for apk in $(ls ${DIR}/apks)
+do
+    COUNT=$(bash ${DIR}/countActivity.sh ${DIR}/apks/${apk})
+    echo ${apk}, ${COUNT}
+    if [ ${COUNT} -lt 5 ]
+    then
+        rm ${DIR}/apks/${apk}
+    fi
+done
