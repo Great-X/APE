@@ -153,3 +153,16 @@ com.btcontract.wallet_52
 org.domogik.domodroid13_33
 git.rrgb.kinolog_12
 com.commonslab.commonslab_3
+uk.co.bitethebullet.android.token_6
+io.github.benoitduffez.cupsprint_9
+org.smc.inputmethod.indic_25
+org.asdtm.goodweather_13
+com.fsck.k9.material_24006
+com.alaskalinuxuser.justcraigslist_10
+org.wikimedia.commons.wikimedia_1
+name.myigel.fahrplan.eh17_54
+com.shapps.mintubeapp_3
+a2dp.Vol_137
+in.shick.diode_20
+ut.ewh.audiometrytest_14
+org.softeg.slartus.forpdaplus_596
