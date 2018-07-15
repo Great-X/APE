@@ -142,3 +142,14 @@ org.geometerplus.zlibrary.ui.android_2050920
 de.baumann.hhsmoodle_57
 org.berlin_vegan.bvapp_26
 com.namelessdev.mpdroid_58
+com.rubenwardy.minetestmodmanager_19
+com.google.android.diskusage_3080
+org.ligi.ipfsdroid_10
+com.iven.lfflfeedreader_66
+au.id.micolous.farebot_31
+link.standen.michael.fatesheets_8
+org.pixmob.freemobile.netstat_63
+com.btcontract.wallet_52
+org.domogik.domodroid13_33
+git.rrgb.kinolog_12
+com.commonslab.commonslab_3
