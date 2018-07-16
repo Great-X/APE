@@ -196,3 +196,9 @@ com.ghstudios.android.mhgendatabase_6
 org.documentfoundation.libreoffice_11
 it.linuxday.torino_1
 org.glucosio.android_38
+de.nico.ha_manager_26
+com.jorgecastillo.kanadrill_33
+net.sf.ethersynth_100
+com.cradle.iitc_mobile_104
+org.horaapps.leafpic_13
+com.tomer.alwayson_213
