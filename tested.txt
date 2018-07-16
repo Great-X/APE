@@ -187,3 +187,8 @@ de.saschahlusiak.freebloks_70
 org.bienvenidoainternet.app_12
 pl.nkg.geokrety_47
 org.pulpdust.lesserpad_38
+com.easwareapps.g2l_23
+com.dozingcatsoftware.asciicam_11
+edu.cmu.cs.speech.tts.flite_4
+me.johnmh.boogdroid_14
+net.kervala.comicsreader_28
