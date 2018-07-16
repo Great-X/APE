@@ -192,3 +192,7 @@ com.dozingcatsoftware.asciicam_11
 edu.cmu.cs.speech.tts.flite_4
 me.johnmh.boogdroid_14
 net.kervala.comicsreader_28
+com.ghstudios.android.mhgendatabase_6
+org.documentfoundation.libreoffice_11
+it.linuxday.torino_1
+org.glucosio.android_38
