@@ -220,3 +220,7 @@ ovh.ice.icecons_12
 us.feras.mdv.demo_2
 info.frangor.laicare_2
 us.achromaticmetaphor.agram_21
+sk.halmi.fbeditplus_13
+com.darshancomputing.BatteryIndicatorPro_11200
+com.jbirdvegas.mgerrit_2111084
+com.crazyhitty.chdev.ks.munch_14
