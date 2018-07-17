@@ -214,3 +214,9 @@ org.cipherdyne.fwknop2_32
 com.nextgis.mobile_16
 org.mozilla.mozstumbler_1080600
 net.usikkert.kouchat.android_15
+com.hectorone.multismssender_18
+libretasks.app_21
+ovh.ice.icecons_12
+us.feras.mdv.demo_2
+info.frangor.laicare_2
+us.achromaticmetaphor.agram_21
