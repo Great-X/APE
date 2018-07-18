@@ -245,3 +245,6 @@ douzifly.list_21
 org.navitproject.navit_6382
 indrora.atomic_21
 org.bobstuff.bobball_24
+net.sf.times_37
+com.chanapps.four.activity_90
+org.libreoffice.impressremote_17
