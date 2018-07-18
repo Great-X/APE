@@ -243,3 +243,5 @@ com.rubenroy.minimaltodo_3
 eu.veldsoft.colors.overflow_1
 douzifly.list_21
 org.navitproject.navit_6382
+indrora.atomic_21
+org.bobstuff.bobball_24
