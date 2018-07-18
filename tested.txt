@@ -254,3 +254,9 @@ io.github.phora.aeondroid_4
 net.gorry.aicia_201503141
 com.Bisha.TI89EmuDonation_1133
 com.catchingnow.tinyclipboardmanager_57
+dk.andsen.asqlitemanager_12
+no.rkkc.bysykkel_25
+com.androidemu.nes_61
+net.rocrail.androc_351
+org.woltage.irssiconnectbot_393
+com.gpl.rpg.AndorsTrail_42
