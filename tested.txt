@@ -252,3 +252,5 @@ com.kaneoriley.cyanogenport.launcher3_1
 github.daneren2005.dsub_158
 io.github.phora.aeondroid_4
 net.gorry.aicia_201503141
+com.Bisha.TI89EmuDonation_1133
+com.catchingnow.tinyclipboardmanager_57
