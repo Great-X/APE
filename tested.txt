@@ -260,3 +260,7 @@ com.googlecode.chartdroid_18
 org.projectmaxs.transport.xmpp_2000501511
 org.fitchfamily.android.gsmlocation_68
 org.fitchfamily.android.wifi_backend_42
+pt.isec.tp.am_4
+com.rubenroy.minimaltodo_3
+eu.veldsoft.fish.rings_3
+eu.veldsoft.colors.overflow_1
