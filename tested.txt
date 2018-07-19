@@ -278,3 +278,12 @@ de.kugihan.dictionaryformids.hmi_android_131
 org.ligi.gobandroid_hd_259
 org.kde.kdeconnect_tp_1841
 fr.unix_experience.owncloud_sms_68
+org.dolphinemu.dolphinemu_14523
+org.mozilla.fennec_fdroid_600210
+org.andstatus.app_256
+com.btcontract.wallet_52
+com.jereksel.libresubstratum_3
+protect.card_locker_29
+org.gnu.icecat_520610
+org.documentfoundation.libreoffice_11
+org.sufficientlysecure.viewer_2817
