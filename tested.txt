@@ -287,3 +287,7 @@ protect.card_locker_29
 org.gnu.icecat_520610
 org.documentfoundation.libreoffice_11
 org.sufficientlysecure.viewer_2817
+com.googlecode.chartdroid_18
+org.projectmaxs.transport.xmpp_2000501511
+org.fitchfamily.android.gsmlocation_68
+org.fitchfamily.android.wifi_backend_42
